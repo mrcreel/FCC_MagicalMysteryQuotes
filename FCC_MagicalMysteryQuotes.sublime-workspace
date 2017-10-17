@@ -1,0 +1,581 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"var",
+				"varChar"
+			],
+			[
+				"arr",
+				"arrResults"
+			],
+			[
+				"ele",
+				"elePairs"
+			],
+			[
+				"toU",
+				"toUpperCase\t(): string String"
+			],
+			[
+				"index",
+				"indexOf\t( searchElement: any, fromIndex?: int ): int Array"
+			],
+			[
+				"spli",
+				"split\t( separator: string, limit: int ): string String"
+			],
+			[
+				"collec",
+				"collectionIndex"
+			],
+			[
+				"s",
+				"src\tAttr"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"id",
+				"id-drawer--header"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"to",
+				"top"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"onc",
+				"onclick\t: EventHandler Document"
+			],
+			[
+				"consol",
+				"console_log"
+			],
+			[
+				"func",
+				"funcClick"
+			],
+			[
+				"functo",
+				"function"
+			],
+			[
+				"f",
+				"for\tfor (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"console",
+				"console_log"
+			],
+			[
+				"for",
+				"forEach\t( callbackfn: Function, thisArg?: any ): Array Array"
+			],
+			[
+				"VAR",
+				"varInitLength"
+			],
+			[
+				"quo",
+				"quote"
+			],
+			[
+				"len",
+				"length\t: int Function"
+			],
+			[
+				"ran",
+				"rand"
+			],
+			[
+				"inner",
+				"innerHTML"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"mdl-layou",
+				"mdl-layout-spacer"
+			],
+			[
+				"sty",
+				"style"
+			],
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"fo",
+				"footer\tTag"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"block",
+				"blockquote"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"mdl-mni-f",
+				"mdl-mini-footer__middle-section"
+			],
+			[
+				"mdl-la",
+				"mdl-layout-spacer"
+			],
+			[
+				"dem",
+				"demo-container"
+			],
+			[
+				"mdl",
+				"mdl-mini-footer"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"Math",
+				"Math_floor\t( x: number ): number Math"
+			],
+			[
+				"num",
+				"numerals"
+			],
+			[
+				"nu",
+				"numerals"
+			],
+			[
+				"conso",
+				"console_log"
+			],
+			[
+				"test",
+				"test2"
+			],
+			[
+				"new",
+				"newArr"
+			],
+			[
+				"fore",
+				"forEach"
+			],
+			[
+				"newa",
+				"newArray"
+			],
+			[
+				"inde",
+				"indexOf\t( searchElement: any, fromIndex?: int ): int Array"
+			],
+			[
+				"resy",
+				"resultArray"
+			],
+			[
+				"diff",
+				"diffArray"
+			],
+			[
+				"result",
+				"resultArray"
+			],
+			[
+				"cons",
+				"console_log"
+			],
+			[
+				"con",
+				"concat\t( items_..: any ): string Array"
+			],
+			[
+				"diffe",
+				"difference"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 7603,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "git stat",
+		"selected_items":
+		[
+			[
+				"git stat",
+				"git: status"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"git s",
+				"git: status"
+			],
+			[
+				"git status",
+				"git: status"
+			],
+			[
+				"git st",
+				"git: status"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"git l",
+				"git: log"
+			],
+			[
+				"git",
+				"git: branch"
+			],
+			[
+				"branch",
+				"git: branch"
+			]
+		],
+		"width": 488.0
+	},
+	"console":
+	{
+		"height": 115.0,
+		"history":
+		[
+			"git status"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/michael/Documents/FreeCodeCamp/01_Front End Development Certification/09_Intermediate Front End Development Projects",
+		"/home/michael/Documents/FreeCodeCamp/01_Front End Development Certification/09_Intermediate Front End Development Projects/01_Build a Random Quote Machine"
+	],
+	"file_history":
+	[
+		"/home/michael/Documents/FreeCodeCamp/01_Front End Development Certification/09_Intermediate Front End Development Projects/01_Build a Random Quote Machine/index.html",
+		"/home/michael/Documents/FreeCodeCamp/01_Front End Development Certification/09_Intermediate Front End Development Projects/01_Build a Random Quote Machine/styles.css",
+		"/home/michael/Documents/FreeCodeCamp/01_Front End Development Certification/09_Intermediate Front End Development Projects/01_Build a Random Quote Machine/script.js",
+		"/home/michael/Documents/FreeCodeCamp/01_Front End Development Certification/09_Intermediate Front End Development Projects/test.html",
+		"/home/michael/Documents/FreeCodeCamp/01_Front End Development Certification/10_Intermediate Algorithm Scripting/10_uniteUnique.js",
+		"/home/michael/Documents/FreeCodeCamp/01_Front End Development Certification/10_Intermediate Algorithm Scripting/11_convertHTML.js",
+		"/home/michael/Documents/FreeCodeCamp/01_Front End Development Certification/10_Intermediate Algorithm Scripting/09_booWho.js",
+		"/home/michael/Documents/FreeCodeCamp/01_Front End Development Certification/10_Intermediate Algorithm Scripting/08_fearNotLetter.js",
+		"/home/michael/Documents/FreeCodeCamp/01_Front End Development Certification/10_Intermediate Algorithm Scripting/06_pigLatin.js",
+		"/home/michael/Documents/FreeCodeCamp/01_Front End Development Certification/10_Intermediate Algorithm Scripting/07_pairElement.js",
+		"/home/michael/Documents/FreeCodeCamp/01_Front End Development Certification/10_Intermediate Algorithm Scripting/05_myReplace.js",
+		"/home/michael/Documents/FreeCodeCamp/01_Front End Development Certification/10_Intermediate Algorithm Scripting/04_Wherefore art thou.js",
+		"/home/michael/Documents/FreeCodeCamp/01_Front End Development Certification/10_Intermediate Algorithm Scripting/lcm.js",
+		"/home/michael/Documents/FreeCodeCamp/01_Front End Development Certification/10_Intermediate Algorithm Scripting/test.js",
+		"/home/michael/Documents/FreeCodeCamp/01_Front End Development Certification/10_Intermediate Algorithm Scripting/02_Diff Two Arrays.js",
+		"/home/michael/Documents/FreeCodeCamp/01_Front End Development Certification/09_Intermediate Front End Development Projects/01_Build a Random Quote Machine/codepen.png",
+		"/home/michael/.config/sublime-text-3/Packages/Sublime-HTMLPrettify/.jsbeautifyrc.defaults.json",
+		"/home/michael/.config/sublime-text-3/Packages/User/.jsbeautifyrc",
+		"/home/michael/Documents/FreeCodeCamp/01_Front End Development Certification/09_Intermediate Front End Development Projects/01_Build a Random Quote Machine/home/index.htm",
+		"/home/michael/Documents/FreeCodeCamp/01_Front End Development Certification/09_Intermediate Front End Development Projects/01_Build a Random Quote Machine/home/index.html",
+		"/home/michael/greeting-app/index.html",
+		"/home/michael/Documents/FreeCodeCamp/copy of styles.css",
+		"/home/michael/Documents/FreeCodeCamp/copy of RQG.html",
+		"/home/michael/Documents/FreeCodeCamp/01_Front End Development Certification/09_Intermediate Front End Development Projects/01_Build a Random Quote Machine/index2.html",
+		"/home/michael/Documents/FreeCodeCamp/01_Front End Development Certification/10_Intermediate Algorithm Scripting/03_Roman Numeral Converter.js",
+		"/home/michael/Documents/FreeCodeCamp/03_Roman Numeral Converter.js",
+		"/home/michael/Documents/FreeCodeCamp/01_Front End Development Certification/10_Intermediate Algorithm Scripting/01_Sum All Numbers in a Range.js",
+		"/home/michael/Documents/FreeCodeCamp/01_Front End Development Certification/10_Intermediate Algorithm Scripting/1_Sum All Numbers in a Range Complete.js",
+		"/home/michael/.config/sublime-text-3/Packages/Emmet/Emmet.sublime-settings",
+		"/home/michael/Documents/FreeCodeCamp/01_Front End Development Certification/10_Intermediate Algorithm Scripting/3_Roman Numeral Converter.js",
+		"/home/michael/Documents/FreeCodeCamp/01_Front End Development Certification/10_Intermediate Algorithm Scripting/2_Diff Two Arrays.js",
+		"/home/michael/Documents/FreeCodeCamp/Front End Development Certification/Intermediate Algorithm Scripting/2_Diff Two Arrays.js",
+		"/home/michael/Documents/FreeCodeCamp/Front End Development Certification/Intermediate Algorithm Scripting/3_Roman Numeral Converter.js",
+		"/home/michael/.config/sublime-text-3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+		"/home/michael/.config/sublime-text-3/Packages/ColorPicker/ColorPicker.sublime-settings",
+		"/home/michael/.config/sublime-text-3/Settings/SideBarEnhancements.json",
+		"/home/michael/.config/sublime-text-3/Packages/User/Git.sublime-settings",
+		"/home/michael/.config/sublime-text-3/Packages/Git/Git.sublime-settings",
+		"/home/michael/Documents/FreeCodeCamp/Front End Development Certification/Intermediate Algorithm Scripting/Diff Two Arrays.js",
+		"/home/michael/Documents/FreeCodeCamp/Front End Development Certification/Intermediate Algorithm Scripting/Sum All Numbers in a Range Complete.js",
+		"/home/michael/.config/sublime-text-3/Packages/DocBlockr/README.md",
+		"/opt/sublime_text/sublime_plugin.py",
+		"/home/michael/.config/sublime-text-3/Packages/JavaScript Completions/JavaScript-Completions.sublime-settings",
+		"/home/michael/.config/sublime-text-3/Packages/User/JavaScript-Completions.sublime-settings",
+		"/home/michael/.config/sublime-text-3/Packages/JsFormat/JsFormat.sublime-settings",
+		"/home/michael/.config/sublime-text-3/Packages/DocBlockr/Base File.sublime-settings",
+		"/home/michael/.config/sublime-text-3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/home/michael/.config/sublime-text-3/Packages/User/SublimeLinter.sublime-settings",
+		"/home/michael/.config/sublime-text-3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/home/michael/.config/sublime-text-3/Packages/User/Side Bar.sublime-settings",
+		"/home/michael/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/michael/.config/sublime-text-3/Packages/SideBarEnhancements/Default (Linux).sublime-keymap",
+		"/home/michael/.config/sublime-text-3/Packages/User/JsFormat.sublime-settings",
+		"/home/michael/.config/sublime-text-3/Packages/JsFormat/Default (Linux).sublime-keymap",
+		"/home/michael/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+		"/home/michael/.config/sublime-text-3/Packages/User/node.sublime-build"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"</p",
+			"<main",
+			"/main",
+			"rib",
+			"aria",
+			">\n",
+			"id-f"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7603,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"git_savvy.repo_path": "/home/michael/Documents/FCC_MagicalMysteryQuotes",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.GitSavvy":
+	{
+		"height": 120.0
+	},
+	"output.exec":
+	{
+		"height": 47.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.show_commit_info":
+	{
+		"height": 156.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 128.0
+	},
+	"pinned_build_system": "Packages/User/node.sublime-build",
+	"project": "FCC_MagicalMysteryQuotes.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 335.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
