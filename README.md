@@ -3,7 +3,7 @@ A Submission for FreeCodeCamp's [Random Quote Generator Project](https://www.fre
 
 ToDo:
 
-* Refactor the spaghetti bow that is my JS
+* Refactor the spaghetti bowl that is my JS
 * Format quote box styling
 * Work on loading time/sequence of elements
 * Line quote box divider with bottom of ribbon
